@@ -1,0 +1,6 @@
+{
+  "name": "Pinterest Automator",
+  "description": "Create, schedule, and automate Pinterest Pins with drafts, post history, board selector, and secure token management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
